@@ -1,0 +1,2 @@
+-- SQL script for setting up Supabase schema
+-- includes users, jobs, results tables
